@@ -2,7 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaagrodrigues&show_icons=true&theme=tokyonight) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaagrodrigues&layout=compact&theme=tokyonight)](https://github.com/anaagrodrigues/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaagrodrigues&layout=compact&theme=tokyonight)](https://github.com/anaagrodrigues/github-readme-stats)
 ##
 
 - 🌱 Estudando Python, C#, mySQL, HTML e CSS
