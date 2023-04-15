@@ -28,6 +28,7 @@
   <a  href=""</a>
 </div>
 
+![Snake animation](https://github.com/anderson-silva21/anaagrodrigues/blob/output/github-contribution-grid-snake.svg)
 
 
 
