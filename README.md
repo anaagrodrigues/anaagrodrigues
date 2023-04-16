@@ -1,6 +1,4 @@
-### Olá! Eu sou a Ana Rodrigues 💻
-
-![Snake animation](https://github.com/anaagrodrigues/anaagrodrigues/blob/output/github-contribution-grid-snake.svg)
+### Olá! Eu sou a Ana Rodrigues 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaagrodrigues&show_icons=true&theme=tokyonight) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaagrodrigues&layout=compact&theme=tokyonight)](https://github.com/anaagrodrigues/github-readme-stats)
@@ -29,3 +27,5 @@
   <a href="https://www.linkedin.com/in/ana-rodrigues-404829258/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a  href=""</a>
 </div>
+
+![Snake animation](https://github.com/anaagrodrigues/anaagrodrigues/blob/output/github-contribution-grid-snake.svg)
